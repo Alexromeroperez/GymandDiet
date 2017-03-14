@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">G&amp;D</string>
+
+    <string name="btAcceder">Entrar</string>
+    <string name="btAceptar">Aceptar</string>
+    <string name="btCancelar">Cancelar</string>
+    <string name="btRecuperar">Recuperar Cuenta</string>
+
+    <string name="etCodigo">Introduce el código de tu gimnasio</string>
+    <string name="etNombre">Nombre</string>
+    <string name="etAltura">Altura(cm)</string>
+    <string name="etPeso">Peso(Kg)</string>
+
+    <string name="mActualiza">Actualizar</string>
+    <string name="mInfo">Informácion Personal</string>
+    <string name="mGim">Cambiar de gimnasio</string>
+
+    <string name="tvBienvenida">¡Bienvenido a Gym &amp; Diet!</string>
+    <string name="tvInfo">Información Personal</string>
+    <string name="tvRepe">Rep/Dur</string>
+    <string name="tvRecuperar">Si ya tienes cuenta recuperala</string>
+
+    <string name="ttCodigo">El código introducido no es correcto</string>
+    <string name="ttCodigo2">No dejes el campo vacio</string>
+    <string name="ttCuenta">No dispones de cuenta en este gimnasio</string>
+    <string name="ttCuenta2">Ya tienes cuenta en este gimnasio</string>
+    <string name="ttCambio">Te has cambiado de gimnasio</string>
+    <string name="ttInfo">Hay algún campo vacio</string>
+    <string name="ttError">Error de conexión</string>
+
+    <string-array name="semana">
+        <item>Lunes</item>
+        <item>Martes</item>
+        <item>Miercoles</item>
+        <item>Jueves</item>
+        <item>Viernes</item>
+        <item>Sabado</item>
+        <item>Domingo</item>
+    </string-array>
+
+
+</resources>
